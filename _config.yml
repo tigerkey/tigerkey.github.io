@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   Machine learning, Deep learning, Datascience, Bioinformatics
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'http://tigerkey.github.io/'
+url: 'http://tigerkey.github.io'
 
 github:
   username: tigerkey             # change to your github username
